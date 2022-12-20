@@ -1,0 +1,1 @@
+Sammlung von alltaeglichen Bash Scripten
