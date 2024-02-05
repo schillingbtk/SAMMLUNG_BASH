@@ -11,7 +11,8 @@ das vorbereitete TXT File.
 Ausschnitt aus der smb.conf:
 
 ..............
-[share]
+
+*[share]*
     *dfree command = /usr/local/samba/bin/tsys4*
 
     oder
@@ -21,3 +22,5 @@ Ausschnitt aus der smb.conf:
     eventuell auch gut fuer die Latenz:
 
     *dfree cache time = 3600*
+
+..............
